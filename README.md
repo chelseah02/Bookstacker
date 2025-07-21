@@ -9,7 +9,7 @@ A fullstack Book Catalog app with CRUD functionality built using **React**, **Sp
 - Full CRUD operations for books
 - React frontend with Axios and React Router
 - Spring Boot backend with RESTful APIs
-- PostgreSQL (AWS RDS Free Tier)
+- H2 in-memory database used during development
 - Frontend hosted on AWS S3
 - Backend deployed to AWS EC2
 
